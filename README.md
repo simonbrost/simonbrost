@@ -1,5 +1,4 @@
-![Snake animation](https://github.com/{{simonbrost}}/{{simonbrost}}/blob/output/github-contribution-grid-snake.svg)
-<h1 align="center">Hi 👋, I'm Simon Brost</h1>
+<img width="1834" alt="Make your README" src="https://github.com/simonbrost/simonbrost/assets/144888640/cb601281-0d2f-41d5-838f-f9ec1a9b3fbd">
 <h3 align="center">A passionate frontend developer from Austria</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V0a2o3eWRzbGx1bW83MDhtbmZ6aTV1ZGdqNWN5NjJuaG16dXI2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 
